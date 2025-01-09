@@ -1,5 +1,6 @@
 # Pizza Sales Report
 
+## DASHBOARD LINK: https://swanseauniversity-my.sharepoint.com/:u:/r/personal/2354677_swansea_ac_uk/Documents/NEW%20REPORT.pbix?csf=1&web=1&e=EuQdp9
 ## PROBLEM STATEMENT 
 1.⁠ ⁠Total Revenue: The sum of the total price of all pizza orders.
 
